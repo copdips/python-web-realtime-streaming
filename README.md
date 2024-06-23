@@ -10,3 +10,7 @@ To run the example install Poetry and then execute:
 make install
 make run
 ```
+
+open <http://127.0.0.1:8000/>
+
+![alt text](image.png)
