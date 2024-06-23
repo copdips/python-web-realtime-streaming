@@ -1,0 +1,11 @@
+click
+fastapi
+h11
+httptools
+jinja2
+markupsafe
+pydantic
+starlette
+uvicorn
+uvloop
+websockets
